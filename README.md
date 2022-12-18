@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Follow me on Mastodon at [@msgilligan@foojay.social](https://foojay.social)
 <!--
 **msgilligan/msgilligan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
